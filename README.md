@@ -19,6 +19,12 @@ I have 8+ years of experience working on international projects in the oil and g
 - **BI & Visualization:** Apache Superset, Matplotlib, Seaborn  
 - **Other:** DBeaver, Jupyter Notebook
 
+  ## 🎓 Education:
+- **Ph.D. in Engineering Sciences**, Saint Petersburg Mining University (2020)  
+- **MSc in Oil and Gas Pipeline Construction and Operation**, Saint Petersburg Mining University (2016)
+- **BSc in Economics**, ITMO University, Saint Petersburg (2015)
+- **Additional Course:** *Data Collection, Analysis, and Interpretation in Python* 
+
   ## 🚀 Looking for Opportunities:
 I'm eager to apply my data analytics expertise in real-world business scenarios. Open to collaboration, new projects, and career opportunities!
 
