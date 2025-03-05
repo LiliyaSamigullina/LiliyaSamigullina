@@ -1,9 +1,8 @@
-Hi 👋 My name is Liliya Samigullina
+Hi 👋 My name is Liliya
 ===================================
 
 Data Analyst | Former Oil & Gas Project Expert
 ------------
-I have 8+ years of experience working on international projects in the oil and gas industry. Over the past year, I've been transitioning into data analytics, applying my skills in SQL, Python, and BI tools to extract insights and drive data-driven decision-making. 
 * 🌍  I'm based in Saint Petersburg, Russia
 
   ## 💡 What I Do:
