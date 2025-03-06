@@ -1,22 +1,18 @@
 Hi 👋 My name is Liliya
-===================================
+
 
 Data Analyst | Former Oil & Gas Project Expert
 ------------
-* 🌍  I'm based in Saint Petersburg, Russia
+🌍 I'm based in Saint Petersburg, Russia
 
   ## 💡 What I Do:
-- Data analysis using SQL (PostgreSQL), Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Data visualization with Apache Superset (Preset), Yandex DataLens
-- Marketing and sales data analytics
-- Business intelligence and dashboard creation
-- Working with large datasets and process optimization
+🛢️ Data analysis using SQL (PostgreSQL), Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-  ## 🛠 Tech Stack:
-- **Languages & Tools:** Python, SQL, Git  
-- **Databases:** PostgreSQL  
-- **BI & Visualization:** Apache Superset, Matplotlib, Seaborn  
-- **Other:** DBeaver, Jupyter Notebook
+📈 Business intelligence and dashboard creation with Apache Superset (Preset), Yandex DataLens
+
+📊 Marketing and sales data analytics
+
+🖥️ Working with large datasets and process optimization
 
   ## 🎓 Education:
 - **Ph.D. in Engineering Sciences**, Saint Petersburg Mining University (2020)  
@@ -26,6 +22,3 @@ Data Analyst | Former Oil & Gas Project Expert
 
   ## 🚀 Looking for Opportunities:
 I'm eager to apply my data analytics expertise in real-world business scenarios. Open to collaboration, new projects, and career opportunities!
-
-📫 **Get in touch:**  
-Telegram: @liliya_slg | Email: lil_1992@mail.ru  
