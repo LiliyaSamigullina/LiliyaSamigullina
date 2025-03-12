@@ -18,4 +18,4 @@ Data Analyst | Former Oil & Gas Project Expert
 - **Additional Course:** *Data Collection, Analysis, and Interpretation in Python* 
 
 ## 🚀 Looking for Opportunities:
-I'm eager to apply my data analytics expertise in real-world business scenarios. Open to collaboration, new projects, and career opportunities!
+Open to collaboration, new projects, and career opportunities!
